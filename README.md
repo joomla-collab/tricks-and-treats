@@ -9,10 +9,8 @@ If you don't know GitHub's editor Markdown syntax, [here goes a basic how to](ht
 
 Take a look at our repositories at [https://github.com/joomla-collab](https://github.com/joomla-collab)
 
-Some already existing [gists](https://gist.github.com/uglyeoin) (short peices of code that aren't worthy of a repository) created by @uglyeoin - feel free to contribute or improve.
+--------------------
 
-   
-   
 > # Templates  
 
 ### Our own
@@ -23,12 +21,25 @@ TBD
 
 [Lyquic template](https://github.com/Lyquix/tpl_lyquix)
 
+--------------------
+
 > # Modules
 
 ### Our own
 
 A basic starter kit module that will save you a huge amount of time when you need to create a custom Joomla module.
 [https://github.com/joomla-collab/mod_starter_module](https://github.com/joomla-collab/mod_starter_module)
+
+--------------------
+
+> # Miscellaneous
+
+### Our own
+
+by @uglyeoin  
+Some already existing [gists](https://gist.github.com/uglyeoin) (short peices of code that aren't worthy of a repository) - feel free to contribute or improve.
+
+--------------------
 
 > # Not Joomla
 
