@@ -8,6 +8,9 @@ If you don't know GitHub's editor Markdown syntax, [here goes a basic how to](ht
 ## What we've been doing with our time (a.k.a. our amazing contributions)
 
 Take a look at our repositories at [https://github.com/joomla-collab](https://github.com/joomla-collab)
+
+Some already existing [https://gist.github.com/uglyeoin](gists) (short peices of code that aren't worthy of a repository).
+
    
    
 > # Templates  
