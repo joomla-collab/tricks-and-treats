@@ -3,13 +3,13 @@ Joomla tricks and techniques, freely offered by members of the Joomla Chit Chat 
 
 ## Getting started
 
-If you don't know the GitHub's editor Markdown syntax, [here goes a basic how to](https://guides.github.com/features/mastering-markdown).
+If you don't know GitHub's editor Markdown syntax, [here goes a basic how to](https://guides.github.com/features/mastering-markdown), [and an advanced one](https://help.github.com/articles/basic-writing-and-formatting-syntax).
 
 ## What we've been doing with our time (a.k.a. our amazing contributions)
 
 Take a look at our repositories at [https://github.com/joomla-collab](https://github.com/joomla-collab)
 
-## Templates
+> Templates  
 
 ### Our own
 
