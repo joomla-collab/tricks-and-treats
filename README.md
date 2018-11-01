@@ -39,6 +39,8 @@ A basic starter kit module that will save you a huge amount of time when you nee
 by @uglyeoin  
 Some already existing [gists](https://gist.github.com/uglyeoin) (short peices of code that aren't worthy of a repository) - feel free to contribute or improve.
 
+Find other useful examples at https://hotexamples.com. For example, if you wanted examples of how people have used JModuleHelper::rendermodule you search for that and it takes you to https://hotexamples.com/examples/-/JModuleHelper/renderModule/php-jmodulehelper-rendermodule-method-examples.html
+
 --------------------
 
 > # Not Joomla
