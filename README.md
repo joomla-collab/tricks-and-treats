@@ -53,3 +53,4 @@ Here we will post all tricks that are platform agnostic, from nifty code samples
 
 [JavaScipt debugging tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
 
+[jQuery welcome tour/walkthrough baloons](https://introjs.com)
