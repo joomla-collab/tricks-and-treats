@@ -8,6 +8,7 @@ If you don't know GitHub's editor Markdown syntax, [here goes a basic how to](ht
 ## What we've been doing with our time (a.k.a. our amazing contributions)
 
 Take a look at our repositories at [https://github.com/joomla-collab](https://github.com/joomla-collab)
+Joomla! Boilerplate modules, components, plugins, templates https://github.com/joomla-extensions/boilerplate
 
 --------------------
 
