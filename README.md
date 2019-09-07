@@ -41,6 +41,12 @@ A basic starter kit module that will save you a huge amount of time when you nee
 by @uglyeoin  
 Some already existing [gists](https://gist.github.com/uglyeoin) (short peices of code that aren't worthy of a repository) - feel free to contribute or improve.
 
+Filezilla - Exclude directories like administrator, libraries, cache, tmp and any others that you don't really need to download for every single project.  Exclude files such as .jpa, .zip, .psd, .indd and other large files that are for the project but not the final upload.  Simply go into Filezilla and do a File > import.  It won't mess up your existing settings I don't think BUT please back up your filters just in case.
+
+https://gist.github.com/uglyeoin/204676f4f61367822c9fbe13ea1b2aae
+
+//
+
 Find other useful examples at https://hotexamples.com. For example, if you wanted examples of how people have used JModuleHelper::rendermodule you search for that and it takes you to https://hotexamples.com/examples/-/JModuleHelper/renderModule/php-jmodulehelper-rendermodule-method-examples.html
 
 --------------------
