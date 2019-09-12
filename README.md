@@ -49,6 +49,10 @@ https://gist.github.com/uglyeoin/204676f4f61367822c9fbe13ea1b2aae
 
 Find other useful examples at https://hotexamples.com. For example, if you wanted examples of how people have used JModuleHelper::rendermodule you search for that and it takes you to https://hotexamples.com/examples/-/JModuleHelper/renderModule/php-jmodulehelper-rendermodule-method-examples.html
 
+## K2 example of how to use overrides and why they save so much time
+
+https://joomlachitchat.slack.com/files/UC86U849F/FLMHK0JR4/kelsey-joomla-k2-jchitchat.mp4
+
 --------------------
 
 > # Not Joomla
