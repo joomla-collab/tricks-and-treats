@@ -51,7 +51,7 @@ Find other useful examples at https://hotexamples.com. For example, if you wante
 
 ## K2 example of how to use overrides and why they save so much time
 
-https://joomlachitchat.slack.com/files/UC86U849F/FLMHK0JR4/kelsey-joomla-k2-jchitchat.mp4
+https://www.dropbox.com/s/idsq3fzr2fpiqcy/kelsey-joomla-k2-jchitchat.mp4?dl=0 
 
 --------------------
 
