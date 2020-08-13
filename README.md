@@ -53,6 +53,9 @@ Find other useful examples at https://hotexamples.com. For example, if you wante
 
 https://www.dropbox.com/s/idsq3fzr2fpiqcy/kelsey-joomla-k2-jchitchat.mp4?dl=0 
 
+## Learning the J internal API
+https://docs.joomla.org/API_Guides
+
 --------------------
 
 > # Not Joomla
